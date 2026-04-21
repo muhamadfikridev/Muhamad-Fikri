@@ -22,7 +22,8 @@ jobs:
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
-          theme: github-dark # IEU NU MATAK JADI POEK SIGA FOTO ETA
+          # Hapus baris 'theme' lianna, pake nu ieu wungkul améh poékna permanén
+          theme: github-dark
 
       - name: push pacman-contribution-graph.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
