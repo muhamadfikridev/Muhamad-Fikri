@@ -1,6 +1,6 @@
 # Halo, Saya Muhamad Fikri! 👋 🤴
 
-![Muhamad Fikri](<img/profile%20(1).jpg>)
+![Muhamad Fikri](<img/banner.png>)
 
 # 🏗️ Membangun Fondasi Web Development
 
