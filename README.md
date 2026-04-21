@@ -38,9 +38,7 @@
 
 [![Muhamad Fikri's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhamadfikridev&show_icons=true&theme=dark&hide_rank=true)](https://github.com/muhamadfikridev)
 
-![](https://raw.githubusercontent.com/muhamadfikridev/muhamadfikridev/output/pacman-contribution-graph.svg?cache=123)
 <picture>
-
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muhamadfikridev/muhamadfikridev/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muhamadfikridev/muhamadfikridev/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/muhamadfikridev/muhamadfikridev/output/pacman-contribution-graph.svg">
