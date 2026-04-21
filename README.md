@@ -1,32 +1,42 @@
 # Halo, Saya Muhamad Fikri! 👋 🤴
 
-![Muhamad Fikri](<img/banner.png>)
+![Muhamad Fikri](img/bannerr.png)
 
-# 🏗️ Membangun Fondasi Web Development
+# 🏗️ "Coding is a marathon, not a sprint." Saya percaya bahwa menguasai fundamental adalah kunci untuk menjadi developer yang handal.
 
-"Coding is a marathon, not a sprint." Saya percaya bahwa menguasai fundamental adalah kunci untuk menjadi developer yang handal.
+<br>
 
-### 📚 Apa yang Saya Pelajari Sekarang:
+#### My Skills
 
-- [ ] **Data Structures & Algorithms:** Memahami efisiensi kode.
-- [ ] **Clean Code:** Menulis kode yang mudah dibaca dan dipelihara.
-- [ ] **Version Control:** Menguasai Git & GitHub Workflow secara mendalam.
-- [ ] **HTML | CSS | JAVASCRIPT :** Memperkuat logika Fundamental.
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=,html,css,js,php,ts,c,cpp,vite" />
+  </a>
+</p>
 
-# ✨ Membangun Masa Depan dengan Next.js
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=,git,github,gitlab,figma,mysql,py,vue,vscode" />
+  </a>
+</p>
 
-Saya adalah pengembang yang berfokus pada **Performance** dan **User Experience**. Saat ini saya sedang mengeksplorasi dunia Server Side Rendering (SSR) dan Static Site Generation (SSG).
+<p align="left">
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=,laravel,react,nextjs,nodejs,npm,postgres,tailwind,bootstrap">
+    <a/>
+</p>
 
-### 🚀 Tech Stack Utama:
+<br>
 
-- **Framework:** Next.js (App Router), React.js
-- **Styling:** Tailwind CSS, Framer Motion
-- **Database:** Prisma / Supabase
+#### Social media
 
-### ⚡ Sedang Mendalami Laravel Ecosystem
+<p align="left">
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=,instagram,linkedin,ai,gmail,discord">
+    </a>
+</p>
 
-Saya seorang pengembang web yang sedang fokus membangun aplikasi menggunakan **Laravel**. Saya sangat menyukai bagaimana Laravel membuat pengembangan backend menjadi lebih elegan dan cepat.
+##### My Github Stats
 
-- 🔭 **Proyek Saat Ini:** Membangun [Sebutkan Proyek, misal: Sistem E-Commerce] dengan Laravel 10.
-- 🌱 **Sedang Mempelajari:** Eloquent ORM, Laravel Sanctum (API Auth), dan Blade Templating.
-- 🛠️ **Stack Belajar:** PHP, Laravel, MySQL, Alpine.js.
+
+[![Muhamad Fikri's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhamadfikridev&show_icons=true&theme=dark&hide_rank=true)](https://github.com/muhamadfikridev)
